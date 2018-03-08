@@ -1,0 +1,21 @@
+body {
+	max-width: 1000px;
+}
+img{
+	max-width: 500px
+}
+h2 {
+	color: red;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: yellow;
+}
+a:active {
+	color: red;
+}
